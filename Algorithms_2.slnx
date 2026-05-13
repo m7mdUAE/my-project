@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Algorithms_2/Algorithms_2.vcxproj" Id="2295c03e-475e-4079-bdee-1b2300985b4d" />
+  <Project Path="Problem_17/Problem_17.vcxproj" Id="83b1db3c-a054-4527-82c0-433e51919c48" />
+  <Project Path="Problem_18/Problem_18.vcxproj" Id="f7896d08-679f-4b94-b6ae-c504690153e8" />
+  <Project Path="Testing_space/Testing_space.vcxproj" Id="f14a8542-241b-4bfb-baab-d105b0498364" />
+</Solution>
