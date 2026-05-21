@@ -9,5 +9,6 @@
   <Project Path="Problem_20/Problem_20.vcxproj" Id="0d48212a-174f-4162-a178-49861488a144" />
   <Project Path="problem_21/problem_21.vcxproj" Id="0adb3b6e-3e37-4998-a07e-f313dc21a391" />
   <Project Path="Problem_22/Problem_22.vcxproj" Id="bb8bf41f-dad0-47df-ba7a-b76f95744bfe" />
+  <Project Path="Problem_23/Problem_23.vcxproj" Id="d9a6bc90-76be-447d-b1bb-8eee94612342" />
   <Project Path="Testing_space/Testing_space.vcxproj" Id="f14a8542-241b-4bfb-baab-d105b0498364" />
 </Solution>
